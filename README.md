@@ -14,4 +14,4 @@ https://editor.p5js.org/carol_lira/full/SwjGrb3ey
 2. Instale o node.js
 3. Instale o HTTP server: npm install http-server -g
 4. Vá para a pasta do projeto via cmd
-5. rode o comando: http-server
+5. Rode o comando: http-server
