@@ -1,0 +1,21 @@
+function preload() {
+  font = loadFont('images/assets/font.otf');
+  font8bit = loadFont('images/assets/mozart.ttf');
+  heartImage = loadImage('images/assets/redHeart.png');
+  homeScreenImage = loadImage('images/scenario/homeScreen.jpg');
+  sceneryImage = loadImage('images/scenario/forest.png');
+  gameOverImage = loadImage('images/assets/gameOver.png');
+  homeWitchImage = loadImage('images/character/homeWitch.png');
+  mainCharacterImage = loadImage('images/character/walk.png');
+  dropEnemyImage = loadImage('images/enemies/drop.png');
+  flyingDropEnemyImage = loadImage('images/enemies/flyingDrop.png');
+  trollEnemyImage = loadImage('images/enemies/troll.png'); 
+  bulbasaurImage = loadImage('images/assets/bulbasaur.png');
+  pikachuImage = loadImage('images/assets/pikachu.png');
+  umbreonImage = loadImage('images/assets/umbreon.png');
+  charmanderImage = loadImage('images/assets/charmander.png');
+  squirtleImage = loadImage('images/assets/squirtle.png');
+  soundtrack = loadSound('sounds/blindingLights8bit.mp3');
+  jumpSound = loadSound('sounds/jumpSound.mp3');
+  tapeMap = loadJSON('tape/tape.json');
+}
