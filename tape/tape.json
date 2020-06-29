@@ -4,32 +4,32 @@
     "initLives": 3
   },
   "gameMap": [
-  {
-    "enemy": 0,
-    "speed": 29
-  },
-  {
-    "enemy": 1,
-    "speed": 30
-  },
-  {
-    "enemy": 1,
-    "speed": 34
-  },
-  {
-    "enemy": 2,
-    "speed": 20
-  },
-  {
-    "enemy": 0,
-    "speed": 29
-  },
-  {
-    "enemy": 2,
-    "speed": 31
-  },
-  {
-    "enemy": 1,
-    "speed": 23
-  },
+    {
+      "enemy": 0,
+      "speed": 20
+    },
+    {
+      "enemy": 1,
+      "speed": 18
+    },
+    {
+      "enemy": 1,
+      "speed": 17
+    },
+    {
+      "enemy": 2,
+      "speed": 16
+    },
+    {
+      "enemy": 0,
+      "speed": 18
+    },
+    {
+      "enemy": 2,
+      "speed": 15
+    },
+    {
+      "enemy": 1,
+      "speed": 20
+    }
 ]}
