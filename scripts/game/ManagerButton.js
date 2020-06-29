@@ -17,7 +17,7 @@ class ManagerButton {
   }
   
   _changeScreen(scene) {
-    this.button.hide();
+    this.button.remove();
     if (scene == 'homeScreen') {
       gameSetup.restart();
       currentScene = scene;
