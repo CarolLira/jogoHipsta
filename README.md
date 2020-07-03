@@ -2,6 +2,8 @@
 
 <img style="width: 60%; height: 40%" src=”images/hipstaGame.png”>
 
+![](images/hipstaGame.png)
+
 ## Tecnologias Utilizadas:
 - HTML
 - CSS
