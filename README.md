@@ -1,5 +1,7 @@
 # Jogo 2d Criado na Imersão Game Dev da Alura
 
+<img style="width: 60%; height: 40%" src=”images/hipstaGame.png”>
+
 ## Tecnologias Utilizadas:
 - HTML
 - CSS
