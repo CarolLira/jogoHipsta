@@ -11,6 +11,16 @@
 ## Link jogável no p5.js
 https://editor.p5js.org/carol_lira/full/SwjGrb3ey
 
+## Funcionalidades adicionadas no jogo:
+- [x] Animação de sprites
+- [x] Perder vida
+- [x] Colidir com inimigos
+- [x] Modificar inimigos atuais utilizando mapa .json
+- [x] Elementos que aparecem aleatóriamente no cenário
+- [x] Apresentação da história
+- [x] Botões de controle
+- [x] Controle de pulo e gravidade 
+
 ## Para baixar e rodar localmente
 1. Faça download ou clone o repositório
 2. Instale o node.js
